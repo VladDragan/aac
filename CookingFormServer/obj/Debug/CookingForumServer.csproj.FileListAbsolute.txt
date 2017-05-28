@@ -1,0 +1,10 @@
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\bin\Debug\CookingFormServer.exe.config
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\bin\Debug\CookingFormServer.exe
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\bin\Debug\CookingFormServer.pdb
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingFormServer.Properties.Resources.resources
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingForumServer.csproj.GenerateResource.Cache
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingFormServer.exe
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingFormServer.pdb
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\bin\Debug\NetworksApi.dll
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingForumServer.csprojResolveAssemblyReference.cache
+c:\users\oana\documents\visual studio 2015\Projects\CookingForum\CookingFormServer\obj\Debug\CookingFormServer.Form1.resources
